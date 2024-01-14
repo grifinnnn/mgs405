@@ -1,8 +1,6 @@
 # mgs405
 Repository for mgs405 system analysis and design final project. I created queries based on the following user story: 
 
-User Story
-
 As the owner of Spring Break 'R' Us, I want to increase profits by offering rooms to adults under the age of 21, but still manage the risk of offering those rooms. 
 
 Acceptance Criteria
