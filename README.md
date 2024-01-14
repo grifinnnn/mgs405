@@ -1,5 +1,5 @@
 # mgs405
-Repository for mgs405 system analysis and design final project. I created queries based on the following user story: 
+Repository for mgs405 system analysis and design final project using Microsoft Access. I created queries using SQL based on the following user story: 
 
 As the owner of Spring Break 'R' Us, I want to increase profits by offering rooms to adults under the age of 21, but still manage the risk of offering those rooms. 
 
